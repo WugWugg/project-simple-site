@@ -1,0 +1,9 @@
+public/build
+node_modules/
+dist/
+
+env.d.ts
+
+.prettierrc
+.eslintrc.cjs
+.eslintignore

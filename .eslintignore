@@ -1,0 +1,13 @@
+public/build
+node_modules/
+dist/
+
+env.d.ts
+
+.prettierrc.cjs
+.eslintrc.cjs
+.eslintignore
+svelte.config.js
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
